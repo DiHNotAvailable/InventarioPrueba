@@ -14,5 +14,6 @@ public class InventarioPrueba {
         System.out.println("Hello World!");
         System.out.println("Olis");
         System.out.println("Chao");
+        System.out.println("Ahora si debería aparecer el cambio");
     }
 }
